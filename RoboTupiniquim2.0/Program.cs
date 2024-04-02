@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RoboTupiniquim.ConsoleApp
+namespace RoboTupiniquim2ponto0
 {
     internal class Program
     {
